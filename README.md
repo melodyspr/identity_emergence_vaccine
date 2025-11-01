@@ -13,17 +13,20 @@ The study combines Natural Language Processing (NLP) with social science theory 
 
 📁 Repository Structure
 
-1_clean_dataset.ipynb	Cleans and preprocesses the raw Twitter dataset.
-2_manual_labelling_antivax_provax.ipynb	Manual labeling of tweets for stance classification (critical of vaccination and related policies in France/non-critical).
-3_train_camembert_classifier_frenchantivax.ipynb	Fine-tunes CamemBERT for stance classification on French-language tweets.
-4_label_whole_dataset.ipynb	Applies the trained model to label the full dataset.
-5_eda.ipynb	Exploratory Data Analysis: temporal trends, user engagement.
-6_pronouns_use.ipynb	Examines personal pronoun use (1SG and 1PL) across user groups and time.
-7_outgroup_labels.ipynb	Identifies and quantifies outgroup labeling in tweets.
-8_create_tweet_embeddings.ipynb	Generates tweet embeddings using sentence transformers for semantic similarity analysis.
-9_similarity_between_groups_changing_cutoff.ipynb	Compares cosine similarity between groups varying thresholds.
-10_fighting_words.ipynb	Uses the Fighting Words method to identify distinctive terms across user groups.
-11_bot_detection.ipynb	Detects and filters potential bots and investigates their impact.
+| Notebook                                            | Description                                                                                       |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| `1_clean_dataset.ipynb`                             | Cleans and preprocesses the raw Twitter dataset.                                                  |
+| `2_manual_labelling_antivax_provax.ipynb`           | Manual labeling of tweets for stance classification (critical of vaccination and related policies in France/non-critical).                             |
+| `3_train_camembert_classifier_frenchantivax.ipynb`  | Fine-tunes **CamemBERT** for stance classification on French-language tweets.                     |
+| `4_label_whole_dataset.ipynb`                       | Applies the trained model to label the full dataset.                                              |
+| `5_eda.ipynb`                                       | Exploratory Data Analysis: temporal trends, user engagement.                                      |
+| `6_pronouns_use.ipynb`                              | Examines personal pronoun use (1SG and 1PL) across user groups and time.                          |
+| `7_outgroup_labels.ipynb`                           | Identifies and quantifies outgroup labeling in tweets.                                            |
+| `8_create_tweet_embeddings.ipynb`                   | Generates tweet embeddings using sentence transformers for semantic similarity analysis.          |
+| `9_similarity_between_groups_changing_cutoff.ipynb` | Compares cosine similarity between groups varying thresholds.                                     |
+| `10_fighting_words.ipynb`                           | Uses the Fighting Words method to identify distinctive terms across user groups.                  |
+| `11_bot_detection.ipynb`                            | Detects and filters potential bots and investigates their impact.                                 |
+
 
 Research Question:
 How did Macron’s July 2021 announcement catalyze the emergence of a collective identity among Twitter users criticizing the vaccine and related policies in France?
