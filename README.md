@@ -1,4 +1,4 @@
-Identity Emergence in the Context of Vaccine Criticism in France
+## Identity Emergence in the Context of Vaccine Criticism in France
 
 This repository contains the code and notebooks for the study “Identity Emergence in the Context of Vaccine Criticism in France”, which forms part of my doctoral research on how collective identities emerge, evolve, and transform in digital environments.
 The project examines French Twitter activity around President Emmanuel Macron’s July 2021 COVID-19 vaccination speech, focusing on how language contribute to the formation of collective identity.
