@@ -32,24 +32,29 @@ Research Question:
 How did Macron’s July 2021 announcement catalyze the emergence of a collective identity among Twitter users criticizing the vaccine and related policies in France?
 
 ⚙️ Requirements
-Python 3.8+
-Recommended libraries:
-pandas
-numpy
-torch
-transformers
-scikit-learn
-matplotlib
-umap-learn
-gensim
-convokit
+
+- Python 3.8+
+- Recommended libraries:
+- pandas
+- numpy
+- torch
+- transformers
+- scikit-learn
+- matplotlib
+- umap-learn
+- gensim
+- convokit
 
 GPU recommended for model fine-tuning.
 
 📄 Citation
+
 If you use this repository, please cite:
+
 Sepahpour-Fard, M. (2025). Performing, Transforming, and Amplifying Identity Online: Computational Insights into the Dynamic Interplay between Language, Audience, and Events. [Doctoral Thesis].
+
 and
+
 Sepahpour-Fard, M., Quayle, M., MacCarron, P., Mannion, S., & Nguyen, D. (2024). Identity Emergence in the Context of Vaccine Criticism in France. arXiv preprint arXiv:2410.12676.
 
 📬 Contact
