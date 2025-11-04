@@ -4,6 +4,7 @@ This repository contains the code and notebooks for the study “Identity Emerge
 The project examines French Twitter activity around President Emmanuel Macron’s July 2021 COVID-19 vaccination speech, focusing on how language contribute to the formation of collective identity.
 
 📖 Overview
+
 The analysis investigates how users’ linguistic behavior changed before and after Macron’s announcement, tracing:
 Shifts in pronoun use (from je to nous) as markers of collective identity.
 Differences in outgroup labeling across established and newly engaged users.
@@ -28,8 +29,6 @@ The study combines Natural Language Processing (NLP) with social science theory 
 | `11_bot_detection.ipynb`                            | Detects and filters potential bots and investigates their impact.                                 |
 
 
-Research Question:
-How did Macron’s July 2021 announcement catalyze the emergence of a collective identity among Twitter users criticizing the vaccine and related policies in France?
 
 ⚙️ Requirements
 
@@ -58,7 +57,11 @@ and
 Sepahpour-Fard, M., Quayle, M., MacCarron, P., Mannion, S., & Nguyen, D. (2024). Identity Emergence in the Context of Vaccine Criticism in France. arXiv preprint arXiv:2410.12676.
 
 📬 Contact
+
 Melody Sepahpour-Fard
+
 University of Limerick
+
 📧 [melody.sepahpourfard@ul.ie]
+
 🔗 [0000-0002-8472-9514]
